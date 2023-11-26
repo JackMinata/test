@@ -3,7 +3,7 @@
 #include <math.h>
 
 #define MAX_WIDTH 40  // Maximum width of the wave
-#define ITERATIONS 200  // Number of iterations of wave
+#define ITERATIONS 300  // Number of iterations of wave
 #define SLEEP_DURATION 30000  // Duration to sleep in microseconds
 
 int main() {
