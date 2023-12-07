@@ -4,7 +4,7 @@
 
 #define MAX_WIDTH 40  // Maximum width of the wave
 #define ITERATIONS 200  // Number of iterations of wave
-#define SLEEP_DURATION 20000  // Duration to sleep in microseconds
+#define SLEEP_DURATION 10000  // Duration to sleep in microseconds
 
 int main() {
     int center = MAX_WIDTH / 2;
